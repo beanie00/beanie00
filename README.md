@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=JeonghyeKim&animation=fadeIn&fontSize=40&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=JeonghyeKim&animation=fadeIn&fontSize=40&fontAlign=75)
 
 <h3 align="center"> 👋 Jeonghye Kim | @kimjh3882 </h3>
 
