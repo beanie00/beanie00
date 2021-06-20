@@ -27,7 +27,7 @@
 <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/> </p>
 
 
-<h4 align="center"> Frameworks & libraries & Service </h4>
+<h4 align="center"> Frameworks & libraries & Services </h4>
 <p align="center">
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
