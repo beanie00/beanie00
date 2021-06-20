@@ -2,7 +2,7 @@
 
 <h3 align="center"> 👋 Jeonghye Kim | @kimjh3882 </h3>
 
-<p align="center"> Majuchim(MJC) Inc. CEO | Frontend Developer | KAIST CS15 | B.A. in PSYCHOLOGY</p>
+<p align="center"> Majuchim(MJC) Inc. CEO | Frontend Developer | KAIST CS15 | B.A. in Psychology</p>
 
 <br></br>
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
