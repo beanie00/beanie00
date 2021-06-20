@@ -1,8 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=header&text=JeonghyeKim&animation=fadeIn&fontSize=35&fontAlign=80)
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=2A757D&height=150&section=header&text=JeonghyeKim&animation=fadeIn&fontSize=35&fontAlign=80&fontColor=fff)
 
 <h3 align="center"> 👋 Jeonghye Kim | @kimjh3882 </h3>
 
 <p align="center"> Majuchim(MJC) Inc. CEO | Frontend Developer | KAIST CS15 | B.A. in Psychology</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjh3882&show_icons=true&title_color=20585e&icon_color=20585e&bg_color=f7fdfd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=20585e&icon_color=20585e&bg_color=f7fdfd)](https://github.com/kimjh3882/github-readme-stats)
+
 
 <br></br>
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
@@ -28,7 +33,9 @@
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
-<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> </p>
+<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> 
+<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 <h4 align="center"> Hosting/SaaS </center>
 <p align="center"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -37,11 +44,16 @@
 <h4 align="center"> Databases </center>
 <p align="center"> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/></p>
-
+<br></br>
+<h3 align="center"> 🎨 Design Stack 🎨 </h3>
+<p align="center">
+<img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Sketch" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/></p>
 <br></br>
 <h3 align="center"> 🙋‍♀️  Me 🙋‍♀️</h3>
 <p align="center">
 <a href="https://instagram.com/kimjh3882" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=kimjh3882@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/%EC%A0%95%ED%98%9C-%EA%B9%80-b051051b6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
-
