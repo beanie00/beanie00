@@ -1,4 +1,4 @@
-![비니소개](https://user-images.githubusercontent.com/38916051/134459849-312a2e29-38b9-48d8-b03c-42d05c58cbc0.jpg)
+![비니소개](https://user-images.githubusercontent.com/38916051/134462734-dd180760-e136-4cc4-a149-5e6f3fa6a43c.jpg)
 
 <h3 align="center"> 👋 Jeonghye Kim | @Beanie </h3>
 
