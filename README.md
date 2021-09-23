@@ -3,7 +3,7 @@
 
 <h3 align="center"> 👋 Jeonghye Kim | @kimjh3882 </h3>
 
-<p align="center"> Majuchim(MJC) Inc. CEO | Frontend Developer | KAIST CS15 | B.A. in Psychology</p>
+<p align="center"> Frontend Developer | KAIST CS15 | B.A. in Psychology</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjh3882&show_icons=true&title_color=20585e&icon_color=20585e&bg_color=f7fdfd&hide_border=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=20585e&icon_color=20585e&bg_color=f7fdfd&hide_border=true&count_private=true)](https://github.com/kimjh3882/github-readme-stats)
