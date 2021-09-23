@@ -1,6 +1,6 @@
 ![비니소개](https://user-images.githubusercontent.com/38916051/134462734-dd180760-e136-4cc4-a149-5e6f3fa6a43c.jpg)
 
-<h3 align="center"> 👋 Jeonghye Kim | @Beanie </h3>
+<h3 align="center"> 👋 Beanie (Jeonghye Kim) | @Beanie00 </h3>
 
 <p align="center"> Front End Developer | KAIST CS15 | B.A. in Psychology</p>
 <p align="center">
